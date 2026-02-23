@@ -20,4 +20,6 @@ The project implements a three-level progression system where social intensity i
 
 ## Screenshots
 
+![Level 2](StudyRoom1.png)
 
+![Level 3](StudyRoom2.png)
